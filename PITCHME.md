@@ -1,7 +1,9 @@
 ---
 # 슬라이드 1
 @title[슬라이드1]
+@transition[fade-in]
 hello, world!
+@color[red]
 +++
 슬라이드 1-1
 @transition[fade-in]
