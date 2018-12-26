@@ -1,8 +1,10 @@
 ---
 # 슬라이드 1
+@title[슬라이드1]
 hello, world!
 +++
 슬라이드 1-1
+@transition[fade-in]
 
 ---
 # 슬라이드 2
